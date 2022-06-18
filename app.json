@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/LEGEND-OS/ajaysaaru/",
+  "website": "https://github.com/ajaysaaru/ajaysaaru/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
